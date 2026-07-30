@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Keerthan 👋
 
-<!--
-**Keerthan5R/Keerthan5R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Information Science Engineering student (VTU) | 🤖 AI/ML & Software Development enthusiast
 
-Here are some ideas to get you started:
+- 🔭 Currently building an **Enterprise RAG system** — Python, LangChain, FAISS & ChromaDB
+- 🌱 Learning: Agentic AI, LLM orchestration, advanced vector search
+- 💼 AI Intern @ Microsoft TechSaksham Program (Nov–Dec 2024)
+- 🏆 1st Prize, Departmental Mini Project Competition | 5+ hackathons
+- 📫 Reach me: keerthanr634@gmail.com | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Keerthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthan5R&show_icons=true&theme=default)
